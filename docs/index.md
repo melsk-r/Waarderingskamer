@@ -1,3 +1,8 @@
+---
+layout: landing-page
+title: GitHub Pages
+---
+
 # Minimale benodigdheden voor activatie GitHub Pages
 
 ## Instellen settings
